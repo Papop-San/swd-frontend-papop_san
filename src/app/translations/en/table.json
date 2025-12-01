@@ -1,0 +1,21 @@
+{
+    "name": "Name",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "phone": "Phone",
+    "manage": "Manage",
+    "edit": "Edit",
+    "delete": "Delete",
+    "selected": "Selected {{count}} items",
+    "expected_salary": "Expected Salary",
+
+    "titles": {
+    "mr": "Mr.",
+    "ms": "Ms.",
+    "other": "Other"
+  }
+
+
+
+
+}

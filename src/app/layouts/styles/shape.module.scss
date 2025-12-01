@@ -1,0 +1,95 @@
+// Row1 — Shapes ขนาดใหญ่ขึ้นให้เหมาะกับการแสดงใน Card
+
+  .layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.layout_inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.inner_row1 {
+    display: flex; 
+    justify-content: end;
+    margin-bottom: 1rem;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: white; 
+    color: #6EDA78;          
+    border: 1px solid  #f0f0f0;
+    ;
+    border-radius: 10px;
+    cursor: pointer;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: background-color 0.2s, color 0.2s;
+  
+    &:hover {
+      background-color: #6EDA78; 
+      color: white;              
+    }
+  
+    &:active {
+      background-color: #FFA200; 
+      color: white;              
+    }
+  }
+  
+
+
+  
+
+.square {
+    height: 120px;
+    width: 120px;
+    background-color: #555;
+}
+
+.circle {
+    height: 120px;
+    width: 120px;
+    background-color: #555;
+    border-radius: 50%;
+}
+
+.oval {
+    height: 100px;
+    width: 180px;
+    background-color: #555;
+    border-radius: 50%;
+}
+
+// Row2
+.trapezoid {
+    border-bottom: 120px solid #555;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    height: 0;
+    width: 180px;
+}
+
+.rectangle {
+    height: 120px;
+    width: 180px;
+    background-color: #555;
+}
+
+.parallelogram {
+    width: 180px;
+    height: 120px;
+    transform: skew(20deg);
+    background: #555;
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Title",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "birth_day": "Birth Day",
+    "nationality": "Nationality",
+    "citizen_id": "Citizen ID",
+    "gender": "Gender",
+    "country_code": "Country Code",
+    "phone_number": "Phone Number",
+    "passport": "Passport No",
+    "expected_salary": "Expected Salary",
+    "submit": "Submit",
+    "reset": "Reset",
+    "select": "Select",
+    "select_date": "Select Date",
+  
+    "required": {
+      "title": "Please select title",
+      "firstname": "Please input firstname!",
+      "lastname": "Please input lastname!",
+      "birth_day": "Please select your birthday!",
+      "nationality": "Please select nationality",
+      "citizen_id": "Please input citizen ID!",
+      "gender": "Please select gender",
+      "country_code": "Please select country code",
+      "phone_number": "Enter your phone number",
+      "passport": "Please input Passport No!",
+      "expected_salary": "Please input expected salary!"
+    },
+  
+    "titles": {
+      "mr": "Mr.",
+      "ms": "Ms.",
+      "other": "Other"
+    },
+  
+    "nationalities": {
+      "thai": "Thai",
+      "usa": "USA",
+      "japan": "Japan"
+    },
+  
+    "genders": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+  
+    "country_codes": {
+      "th": "+66 Thailand",
+      "us": "+1 USA",
+      "jp": "+81 Japan"
+    }
+  }
+  

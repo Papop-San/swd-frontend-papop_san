@@ -1,0 +1,135 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/layouts/styles/Button.module.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Button_button__QCsvS {
+  padding: 10px 20px;
+  background-color: white;
+  color: #6EDA78;
+  border: 1px solid #f0f0f0;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: background-color 0.2s, color 0.2s;
+}
+.Button_button__QCsvS:hover {
+  background-color: #6EDA78;
+  color: white;
+}
+.Button_button__QCsvS:active {
+  background-color: #FFA200;
+  color: white;
+}
+
+.Button_span__7y8fO {
+  padding: 2px;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/layouts/styles/shape.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.shape_layout__PfiLZ {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.shape_layout_inner__t9ERx {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.shape_inner_row1__N5wgm {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 1rem;
+}
+
+.shape_button__7Xiw9 {
+  padding: 10px 20px;
+  background-color: white;
+  color: #6EDA78;
+  border: 1px solid #f0f0f0;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: background-color 0.2s, color 0.2s;
+}
+.shape_button__7Xiw9:hover {
+  background-color: #6EDA78;
+  color: white;
+}
+.shape_button__7Xiw9:active {
+  background-color: #FFA200;
+  color: white;
+}
+
+.shape_square__PCUIH {
+  height: 120px;
+  width: 120px;
+  background-color: #555;
+}
+
+.shape_circle__1zpXA {
+  height: 120px;
+  width: 120px;
+  background-color: #555;
+  border-radius: 50%;
+}
+
+.shape_oval__gT43D {
+  height: 100px;
+  width: 180px;
+  background-color: #555;
+  border-radius: 50%;
+}
+
+.shape_trapezoid__xH3vo {
+  border-bottom: 120px solid #555;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  height: 0;
+  width: 180px;
+}
+
+.shape_rectangle__mebqR {
+  height: 120px;
+  width: 180px;
+  background-color: #555;
+}
+
+.shape_parallelogram__nGTiu {
+  width: 180px;
+  height: 120px;
+  transform: skew(20deg);
+  background: #555;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/layouts/styles/page.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_layout_component__oFuyk {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+}
+
+.page_text__QYklx {
+  color: #0070f3;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.page_arrow_button__c2K7_ {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}

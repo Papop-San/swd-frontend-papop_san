@@ -1,0 +1,18 @@
+.layout_component {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+}
+  
+.text {
+  color: #0070f3;
+  font-size: 18px;
+  margin-top: 10px;
+}
+  
+.arrow_button{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
